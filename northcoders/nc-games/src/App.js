@@ -20,6 +20,7 @@ function App() {
       <Routes>
         <Route path='/' exact/>
       </Routes>
+      
       <Main/>
       </Router>
     </>
